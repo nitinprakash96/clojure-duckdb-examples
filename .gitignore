@@ -13,4 +13,4 @@ pom.xml.asc
 .hg/
 
 # duckdb persistent file
-file.db
+*.db
